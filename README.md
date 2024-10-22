@@ -5,6 +5,15 @@
 - This challenge will incorporte skills learned at our previous event "Introduction to Python".
 - We will also formally introduce classes in Python and utilize them to develop an application/command line tool, to interact with text documents.
 
+1. Set up VSCODE
+2. Install Python
+3. Setup Jupyter Notebook (in VSCODE)
+4. Discuss Python Classes
+  - What are they?
+  - What is the super() function?
+  - What is inheritance?
+5. 
+
 ---
 
 ### This challenge will require students to do the following:
