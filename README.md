@@ -13,6 +13,20 @@
 3. Develop a script to allow a user to create/read/update/delete documents (using the classes and their methods as an interface).
 
 ### Skill incorported include:
-1. String manipulateion
+1. String manipulation
 2. File IO
 3. Class creation and utilization
+4. Inheritance
+
+### Elements
+- Exstensibility
+  - When creating the cli functionality, have students create options based on the exisiting function names, rather than hard coding.
+  - Students should be able to add an additional document type (via inheritance) if they so desire.
+    
+- Classes
+  - Inheritance should be used for the document-esque classes.
+  - Magic methods should be defined when appropriate.
+    
+- Readability
+  - Student's code should be neat, readable, and contain informative comments.
+
