@@ -29,4 +29,8 @@
     
 - Readability
   - Student's code should be neat, readable, and contain informative comments.
+ 
+### Inspiration
+- https://www.101computing.net/linear-search-functions/
+- 
 
