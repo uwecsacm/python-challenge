@@ -12,20 +12,16 @@
   - What are they?
   - What is the super() function?
   - What is inheritance?
-5. 
+  - Class vs. instance variables
+5. Discuss some new functions
+  - `isinstance()`
+  - `strip()`
+  - `os.system()`
+
+6. Do the challenges!
+7. Show demo of 
 
 ---
-
-### This challenge will require students to do the following:
-1. Implement code to read/write to text documents.
-2. Create classes to effectively manage and manipulate documents.
-3. Develop a script to allow a user to create/read/update/delete documents (using the classes and their methods as an interface).
-
-### Skill incorported include:
-1. String manipulation
-2. File IO
-3. Class creation and utilization
-4. Inheritance
 
 ### Elements
 - Exstensibility
@@ -35,9 +31,11 @@
 - Classes
   - Inheritance should be used for the document-esque classes.
   - Magic methods should be defined when appropriate.
+  - Static Variables
     
 - Readability
   - Student's code should be neat, readable, and contain informative comments.
+  - Using type hints
  
 ### Inspiration
 - https://www.101computing.net/linear-search-functions/

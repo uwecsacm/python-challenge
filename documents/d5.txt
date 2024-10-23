@@ -1,7 +1,7 @@
-Andrew Smith 
-----
+### Andrew Smith 
 
 ### Classes
+
 CS410 - A
 CS155 - B
 CS220 - B-
